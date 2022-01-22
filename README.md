@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="WorldTrip" title="WorldTrip" src="https://i.imgur.com/roue8u5.png" width="220px" />
+  <img alt="Sneakers" title="Sneakers" src="https://i.imgur.com/roue8u5.png" width="220px" />
 </h1>
 
 <p align="center">
@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img alt="Desafio 04 Ignite Rocketseat" src="https://i.imgur.com/YvRRsDs.jpg" width="100%">
+  <img alt="Desafio do Front-end Mentor" src="https://i.imgur.com/YvRRsDs.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
